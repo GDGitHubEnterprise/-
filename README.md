@@ -1,2 +1,0 @@
-# -
-GD GitHub Developer 
